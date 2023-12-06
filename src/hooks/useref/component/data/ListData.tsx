@@ -1,0 +1,73 @@
+/**
+ * Type definition for the data string.
+ */
+export interface DataType {
+  id: number;
+  name: string;
+}
+
+/**
+ * Data list to show the infinite list thing.
+ */
+export const dataList: DataType[] = [
+  { id: 1, name: "Services1" },
+  { id: 2, name: "Engineering" },
+  { id: 3, name: "Services2" },
+  { id: 4, name: "Training" },
+  { id: 5, name: "Support" },
+  { id: 6, name: "Research and Development" },
+  { id: 7, name: "Training" },
+  { id: 8, name: "Human Resources" },
+  { id: 9, name: "Services2" },
+  { id: 10, name: "Legal1" },
+  { id: 11, name: "Sales" },
+  { id: 12, name: "Legal2" },
+  { id: 13, name: "Accounting" },
+  { id: 14, name: "Business Development" },
+  { id: 15, name: "Accounting" },
+  { id: 16, name: "Services3" },
+  { id: 17, name: "Training" },
+  { id: 18, name: "Research and Development" },
+  { id: 19, name: "Human Resources" },
+  { id: 20, name: "Legal3" },
+  { id: 21, name: "Research and Development" },
+  { id: 22, name: "Human Resources" },
+  { id: 23, name: "Services4" },
+  { id: 24, name: "Research and Development" },
+  { id: 25, name: "Research and Development" },
+  { id: 26, name: "Accounting" },
+  { id: 27, name: "Product Management" },
+  { id: 28, name: "Human Resources" },
+  { id: 29, name: "Legal4" },
+  { id: 30, name: "Legal5" },
+  { id: 31, name: "Services5" },
+  { id: 32, name: "Engineering1" },
+  { id: 33, name: "Services6" },
+  { id: 34, name: "Training" },
+  { id: 35, name: "Support" },
+  { id: 36, name: "Research and Development" },
+  { id: 37, name: "Training" },
+  { id: 38, name: "Human Resources" },
+  { id: 39, name: "Services7" },
+  { id: 40, name: "Legal6" },
+  { id: 41, name: "Sales" },
+  { id: 42, name: "Legal7" },
+  { id: 43, name: "Accounting" },
+  { id: 44, name: "Business Development" },
+  { id: 45, name: "Accounting" },
+  { id: 46, name: "Services7" },
+  { id: 47, name: "Training" },
+  { id: 48, name: "Research and Development" },
+  { id: 49, name: "Human Resources" },
+  { id: 50, name: "Legal8" },
+  { id: 51, name: "Research and Development" },
+  { id: 52, name: "Human Resources" },
+  { id: 53, name: "Services8" },
+  { id: 54, name: "Research and Development" },
+  { id: 55, name: "Research and Development" },
+  { id: 56, name: "Accounting" },
+  { id: 57, name: "Product Management" },
+  { id: 58, name: "Human Resources" },
+  { id: 59, name: "Legal9" },
+  { id: 60, name: "Legal10" },
+];
